@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Logistic Regression,0.9825,0.9807,0.9858,0.9832
+Naive Bayes,0.9536,0.9845,0.9257,0.9542
+Random Forest,0.9807,0.9739,0.9894,0.9816
+Neural Network,0.9844,0.9864,0.9837,0.985
